@@ -1,6 +1,6 @@
 # App-Landing-Page
 
-## [site demo](https://khalilhasan23.github.io/online-courses-landing-page/)
+## [site demo](https://khalilhasan23.github.io/App-Landing-Page/)
 
 
 ## project screenshot
