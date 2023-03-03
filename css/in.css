@@ -40,6 +40,11 @@ body{
     
 }
 
+.boo:hover{
+    color: white;
+    background-color: #915ee9;
+}
+
 .inpppp{
     background-color: white;
     border-radius: 20px;
@@ -64,3 +69,74 @@ body{
 
 }
 
+.lmp{
+    border-radius: 30px;
+    padding: 13px;
+    width: 198px;
+    text-align: center;
+}
+
+.line{
+    color: #7939E4;
+    height: 3px;
+    width: 84px;
+    background-color: #7939E4;
+}
+
+.lay-im{
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.card-d{
+    border-radius: 30px;
+    margin-left: 25px;
+    transition: all .7s;
+}
+
+.card-d:hover{
+    margin-top: -10px;
+}
+
+.face-ic{
+    font-size: 25px;
+    color: white;
+    background-color: #3b5998;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+.go-ic{
+    font-size: 25px;
+    color: white;;
+    background-color:#dd4b39 ;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+.tw-ic{
+    font-size: 25px;
+    color: white;
+    background-color: #1DA1F2;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+.li-ic{
+    font-size: 25px;
+    color: white;
+    background-color: #0077b5;
+    border-radius:8px ;
+    padding: 11px;
+}
+
+
+.last-p{
+    cursor: pointer;
+}
+
+.last-p:hover{
+    color: #915ee9;
+}
