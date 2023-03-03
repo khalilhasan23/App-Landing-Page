@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.con-b{
+    background-color: #7939E4;
+}
+
+.nav-b{
+    background-color: #7939E4;
+}
+
+.nav-b li a{
+    color: white;
+    font-weight:400;
+    text-decoration: none solid rgb(255, 255, 255);
+    font-size: 18px;
+    margin-left: 14px;
+}
+
+.hh{
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+}
+
+.ppp{
+    color: white;
+}
+
+.boo{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 12px;
+    
+}
+
+.inpppp{
+    background-color: white;
+    border-radius: 20px;
+    padding: 50px;
+
+}
+
+.bol{
+    text-decoration: none;
+    background-color: #7939E4;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.inpot{
+    border: none;
+    padding: 15px;
+
+}
+
